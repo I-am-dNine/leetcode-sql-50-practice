@@ -14,4 +14,5 @@
 
 | # | 题目 | 难度 | 完成 | 笔记 |
 |---|------|------|------|------|
+| 1757 | Recyclable and Low Fat Products | Easy | ✅ | [笔记](notes/1757-recyclable-and-low-fat-products.md) |
 | ... | ... | ... | ... | ... |
