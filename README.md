@@ -20,4 +20,5 @@
 | 584  | Find Customer Referee           | Easy | ✅   | [笔记](notes/584.%20Find%20Customer%20Referee.md)                |
 | 595  | Big Countries                   | Easy | ✅   | [笔记](notes/595.%20Big%20Countries.md)                          |
 | 1148 | Article Views I                 | Easy | ✅   | [笔记](notes/1148.%20Article%20Views%20I.md)                     |
+| 1683 | Invalid Tweets                  | Easy | ✅   | [笔记](notes/1683.%20Invalid%20Tweets.md)                        |
 | ...  | ...                             | ...  | ...  | ...                                                       |
